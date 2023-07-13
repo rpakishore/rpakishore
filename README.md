@@ -4,14 +4,26 @@ I'm a passionate structural engineer-in-training who loves to push the boundarie
 
 ## 🔭 What I'm currently working on
 
-I'm constantly seeking innovative ways to enhance the field of structural engineering through automation and optimization. Some of my recent projects include:
+I'm constantly seeking innovative ways to enhance the field of structural engineering through automation and optimization. 
 
-- Developing a Python script to streamline the analysis and design of complex steel structures.
-- Building a userscripts using JavaScript to enhance existing web calculators.
-- Experimenting with Docker to create reproducible environments for engineering simulations.
-- Developing web apps to aid with project metric tracking and report generation.
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rpakishore&layout=compact&hide=css,html)
+<table>
+  <tr>
+    <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpakishore&layout=compact&hide=css,html" alt="Most Used Languages">
+    </td>
+    <td>
+      <p>
+        Some of my recent projects include:
+        <ul>
+          <li>Developing a Python script to streamline the analysis and design of complex steel structures.</li>
+          <li>Building userscripts using JavaScript to enhance existing web calculators.</li>
+          <li>Experimenting with Docker to create reproducible environments for engineering simulations.</li>
+          <li>Developing web apps to aid with project metric tracking and report generation.</li>
+        </ul>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## 🌱 I'm currently learning
 
@@ -41,11 +53,18 @@ I'm always excited to collaborate and exchange ideas with fellow engineers and d
 
 Take a look at some of my projects below. I hope you find them interesting and informative:
 
-[![Concrete Slabs](https://github-readme-stats.vercel.app/api/pin/?username=rpakishore&repo=Concrete_Slabs)](https://github.com/rpakishore/Concrete_Slabs)
+<p float="left">
+    <a href="https://github.com/rpakishore/Concrete_Slabs">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rpakishore&repo=Concrete_Slabs" width="45%" />
+    </a>
+    <a href="https://github.com/rpakishore/hilti-profis-help">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rpakishore&repo=hilti-profis-help" width="45%" /> 
+    </a>
+    <a href="https://github.com/rpakishore/Concrete_Test_Results">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rpakishore&repo=Concrete_Test_Results" width="45%" />
+    </a>
+</p>
 
-[![Hilti Profis Help](https://github-readme-stats.vercel.app/api/pin/?username=rpakishore&repo=hilti-profis-help)](https://github.com/rpakishore/hilti-profis-help)
-
-[![Concrete Test Results](https://github-readme-stats.vercel.app/api/pin/?username=rpakishore&repo=Concrete_Test_Results)](https://github.com/rpakishore/Concrete_Test_Results)
 
 Feel free to explore the repositories for more details, code snippets, and documentation.
 
