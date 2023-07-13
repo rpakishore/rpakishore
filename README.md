@@ -41,10 +41,11 @@ I'm always excited to collaborate and exchange ideas with fellow engineers and d
 
 Take a look at some of my projects below. I hope you find them interesting and informative:
 
-- [Concrete Slabs](https://github.com/rpakishore/Concrete_Slabs): A Python-Streamlit app that simplifies the design process of reinforced concrete slabs spanning over beams or walls, providing engineers with an intuitive interface and automated calculations for accurate and efficient slab design.
-- [Concrete Test Results](https://github.com/rpakishore/Concrete_Test_Results): A Python app that automates the generation of summary PDF reports from submitted result PDFs, providing a streamlined solution for analyzing and presenting concrete test data.
-- [Hilti Profis Help](https://github.com/rpakishore/hilti-profis-help): Enhances the Hilti Profis software by creating a mini window with helpful recommendations to mitigate anchor failure, providing engineers with valuable insights and guidance for optimizing their designs.
+[![Concrete Slabs](https://github-readme-stats.vercel.app/api/pin/?username=rpakishore&repo=Concrete_Slabs)](https://github.com/rpakishore/Concrete_Slabs)
 
+[![Hilti Profis Help](https://github-readme-stats.vercel.app/api/pin/?username=rpakishore&repo=hilti-profis-help)](https://github.com/rpakishore/hilti-profis-help)
+
+[![Concrete Test Results](https://github-readme-stats.vercel.app/api/pin/?username=rpakishore&repo=Concrete_Test_Results)](https://github.com/rpakishore/Concrete_Test_Results)
 
 Feel free to explore the repositories for more details, code snippets, and documentation.
 
