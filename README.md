@@ -55,13 +55,13 @@ Take a look at some of my projects below. I hope you find them interesting and i
 
 <p float="left">
     <a href="https://github.com/rpakishore/Concrete_Slabs">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rpakishore&repo=Concrete_Slabs" width="45%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rpakishore&repo=Concrete_Slabs" width="49%" />
     </a>
     <a href="https://github.com/rpakishore/hilti-profis-help">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rpakishore&repo=hilti-profis-help" width="45%" /> 
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rpakishore&repo=hilti-profis-help" width="49%" /> 
     </a>
     <a href="https://github.com/rpakishore/Concrete_Test_Results">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rpakishore&repo=Concrete_Test_Results" width="45%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rpakishore&repo=Concrete_Test_Results" width="49%" />
     </a>
 </p>
 
