@@ -15,8 +15,8 @@ I'm constantly seeking innovative ways to enhance the field of structural engine
       <p>
         Some of my recent projects include:
         <ul>
-          <li>Developing a [Python wrapper for SAP2000](https://github.com/rpakishore/ak_sap) to streamline the analysis and design of complex structures.</li>
-          <li>Building [userscripts](https://github.com/rpakishore/hilti-profis-help) using JavaScript to enhance existing web calculators.</li>
+          <li>Developing a Python wrapper for SAP2000 to streamline the analysis and design of complex structures.</li>
+          <li>Building userscripts using JavaScript to enhance existing web calculators.</li>
           <li>Experimenting with Docker to create reproducible environments for engineering simulations.</li>
           <li>Developing web apps to aid with project metric tracking and report generation.</li>
         </ul>
@@ -62,6 +62,9 @@ Take a look at some of my projects below. I hope you find them interesting and i
     </a>
     <a href="https://github.com/rpakishore/Concrete_Test_Results">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=rpakishore&repo=Concrete_Test_Results" width="49%" />
+    </a>
+    <a href="https://github.com/rpakishore/ak_sap">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rpakishore&repo=ak_sap" width="49%" />
     </a>
 </p>
 
