@@ -15,8 +15,8 @@ I'm constantly seeking innovative ways to enhance the field of structural engine
       <p>
         Some of my recent projects include:
         <ul>
-          <li>Developing a Python script to streamline the analysis and design of complex steel structures.</li>
-          <li>Building userscripts using JavaScript to enhance existing web calculators.</li>
+          <li>Developing a [Python wrapper for SAP2000](https://github.com/rpakishore/ak_sap) to streamline the analysis and design of complex structures.</li>
+          <li>Building [userscripts](https://github.com/rpakishore/hilti-profis-help) using JavaScript to enhance existing web calculators.</li>
           <li>Experimenting with Docker to create reproducible environments for engineering simulations.</li>
           <li>Developing web apps to aid with project metric tracking and report generation.</li>
         </ul>
