@@ -1,8 +1,8 @@
-# Hi there, I'm Arun - Structural EIT and Coding Enthusiast! 👋
+# Hi there, I'm Arun - Structural EIT and Coding Enthusiast! 
 
 I'm a passionate structural engineer-in-training who loves to push the boundaries of both design and code. In my free time, I enjoy tinkering with programming languages such as Python, JavaScript, Shell, and Docker, exploring the intersection between structural engineering and software development.
 
-## 🔭 What I'm currently working on
+##  What I'm currently working on
 
 I'm constantly seeking innovative ways to enhance the field of structural engineering through automation and optimization. 
 
@@ -25,7 +25,7 @@ I'm constantly seeking innovative ways to enhance the field of structural engine
   </tr>
 </table>
 
-## 🌱 I'm currently learning
+##  I'm currently learning
 
 Continuous learning is an essential part of my journey. Here are a few technologies and concepts I'm currently diving into:
 
@@ -34,13 +34,13 @@ Continuous learning is an essential part of my journey. Here are a few technolog
 - Advanced data visualization techniques to communicate complex engineering concepts effectively.
 - Cloud computing and its applications in large-scale structural analysis.
 
-## 💡 Fun facts about me
+##  Fun facts about me
 
 - I'm a big fan of puzzles and brain teasers. Solving them helps me exercise my problem-solving skills.
 - I believe in the power of open-source software and actively contribute to various engineering and coding communities.
 - When I'm not engineering or coding, you can find me exploring the great outdoors or enjoying a good book.
 
-## 📫 Let's connect!
+##  Let's connect!
 
 I'm always excited to collaborate and exchange ideas with fellow engineers and developers. Feel free to reach out to me through the following channels:
 
@@ -49,7 +49,7 @@ I'm always excited to collaborate and exchange ideas with fellow engineers and d
 - Personal website: [https://struct.work](https://struct.work)
 - Portfolio website [https://portfolio.rpakishore.co.in](https://portfolio.rpakishore.co.in)
 
-## 🚀 Check out my projects
+##  Check out my projects
 
 Take a look at some of my projects below. I hope you find them interesting and informative:
 
@@ -71,7 +71,7 @@ Take a look at some of my projects below. I hope you find them interesting and i
 
 Feel free to explore the repositories for more details, code snippets, and documentation.
 
-## 🎯 Looking for collaboration opportunities
+##  Looking for collaboration opportunities
 
 If you share a passion for structural engineering, coding, or any related fields, I'd love to hear from you. I'm open to collaboration on exciting projects, research papers, or even engaging in thought-provoking discussions. Let's create something incredible together!
 
